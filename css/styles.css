@@ -787,6 +787,7 @@ background: #fff;
 .portfolio-images{
   position: relative; 
   overflow: hidden;
+  width: 360px;
 }
 .overlay-text{
   display: flex;
