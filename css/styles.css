@@ -731,7 +731,7 @@ max-width: 264px;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-
+}
 
 }
 
@@ -766,7 +766,7 @@ background: #fff;
   color: #434455;
 }
 
-}
+
 
 
 @media (min-width: 1158px) {
