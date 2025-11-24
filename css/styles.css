@@ -678,12 +678,15 @@ height: 428px;
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
-   background-color: #fff;
+   background-color: #F4F4FD;
 }
 .our-team-item {
   flex-basis: calc((100% - 24px) / 2);
 max-width: 264px;
   
+}
+  .name-work {
+   background-color: #fff;
 }
 }
 
@@ -703,7 +706,8 @@ max-width: 264px;
   flex-basis: calc((100% - 72px) / 4);
  
 }
-}
+  
+
 
 .our-portfolio {
   padding-top: 120px;
