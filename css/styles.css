@@ -681,7 +681,8 @@ height: 428px;
 }
 .our-team-item {
   flex-basis: calc((100% - 24px) / 2);
-
+max-width: 264px;
+   background-color: #fff;
 }
 }
 
