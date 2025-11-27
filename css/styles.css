@@ -24,7 +24,7 @@ a {
 
 img {
   display: block;
-  max-width: 100%;
+  width: 100%;
   height: auto;
     margin-left: auto;
   margin-right: auto;
@@ -473,7 +473,7 @@ display: none;
         url("../images/peopleofficedistop1x.jpg") 1x,
         url("../images/peopleofficedistop2x.jpg") 2x
       );
-    max-width: 1440px;
+    max-width: 100%;
   }
 
   .title {
@@ -782,12 +782,13 @@ background: #fff;
   position: relative;
   overflow: hidden;
   box-shadow: none;
+  
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .portfolio-images{
   position: relative; 
   overflow: hidden;
-  width: 360px;
+  
 }
 .overlay-text{
   display: flex;
